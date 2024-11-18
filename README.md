@@ -3,7 +3,7 @@ I am a **Back-end developer specialized in JavaScript, with experience in Node.j
 
 I currently have more than 3 years' experience as a Technical Writer in technology companies, which has given me **critical and logical skills, as well as practice with versioning tools such as Git, and knowledge of front-end development using HTML and CSS**. My experience also includes collaborating in multidisciplinary teams and applying agile methodologies.
 
-*My goal is to evolve into a full-stack developer** in the near future and **actively contribute to the development community in Brazil and around the world**, sharing knowledge and learning from other professionals.
+**My goal is to evolve into a full-stack developer** in the near future and **actively contribute to the development community in Brazil and around the world**, sharing knowledge and learning from other professionals.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michelle-sanseverino/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>

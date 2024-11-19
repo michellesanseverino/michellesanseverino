@@ -1,4 +1,3 @@
-
 I am a **Back-end developer specialized in JavaScript, with experience in Node.js and React**, focused on making a solid career transition to the Back-end development area. **With more than 5 years of studies in programming and technology**, I maintain a constant commitment to continuous learning and the practical application of the knowledge acquired.
 
 I currently have more than 3 years' experience as a Technical Writer in technology companies, which has given me **critical and logical skills, as well as practice with versioning tools such as Git, and knowledge of front-end development using HTML and CSS**. My experience also includes collaborating in multidisciplinary teams and applying agile methodologies.
@@ -11,8 +10,9 @@ I currently have more than 3 years' experience as a Technical Writer in technolo
   <a href = "https://dev.to/michellesanseverino"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">  
-  [![wakatime](https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg)](https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485)
+<div  align="center" >
+  <a href="https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485"><img src="https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg" alt="Total time coded since Mar 28 2024" /></a>
+  <a href="https://github.com/alanhamlett?tab=followers"><img src="https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic"/></a>
 </div>
 
 ## Technologies
@@ -27,5 +27,11 @@ I currently have more than 3 years' experience as a Technical Writer in technolo
   <img alt="Michelle-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img alt="Michelle-Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
   <img alt="Michelle-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michellesanseverino&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
 </div>
 

@@ -12,7 +12,7 @@ I currently have more than 3 years' experience as a Technical Writer in technolo
 
 <div  align="center" >
   <a href="https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485"><img src="https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg" alt="Total time coded since Mar 28 2024" /></a>
-  <a href="https://github.com/alanhamlett?tab=followers"><img src="https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic"/></a>
+  <a href="https://github.com/michellesanseverinot?tab=followers"><img src="https://img.shields.io/github/followers/michellesanseverino?logo=github&style=plastic"/></a>
 </div>
 
 ## Technologies

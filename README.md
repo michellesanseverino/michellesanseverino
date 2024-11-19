@@ -11,7 +11,9 @@ I currently have more than 3 years' experience as a Technical Writer in technolo
   <a href = "https://dev.to/michellesanseverino"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg)](https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485)
+<div align="center">  
+  [![wakatime](https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg)](https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485)
+</div>
 
 ## Technologies
 <div align="center">

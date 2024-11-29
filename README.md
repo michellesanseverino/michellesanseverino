@@ -71,11 +71,3 @@ I currently have more than 3 years' experience as a Technical Writer in technolo
   <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 </div>
-
-<div align="center">
-  <break></break>
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=melloelle&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=melloelle&redirect=true)
-  
-</div>
-

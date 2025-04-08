@@ -1,4 +1,4 @@
-I am a **Back-end developer specialized in Java and Golang, with experience in JavaScript and Node.js**, focused on making a solid career transition to the Back-end development area. **With more than 5 years of studies in programming and technology**, I maintain a constant commitment to continuous learning and the practical application of the knowledge acquired.
+I am a **Back-end developer specialized in Java and Python, with experience in JavaScript and Node.js**, focused on making a solid career transition to the Back-end development area. **With more than 5 years of studies in programming and technology**, I maintain a constant commitment to continuous learning and the practical application of the knowledge acquired.
 
 I currently have more than 3 years' experience as a Technical Writer in technology companies, which has given me **critical and logical skills, as well as practice with versioning tools such as Git, and knowledge of front-end development using HTML and CSS**. My experience also includes collaborating in multidisciplinary teams and applying agile methodologies.
 

@@ -10,15 +10,18 @@
 - OpenPyXL
 - Flask
 - Git & GitHub
+- VSCode & PyCharm
 
 ## 🚀 Currently:
 - Building automation projects for my portfolio  
 - Learning about APIs, data handling, and web automation  
 - Sharing what I learn along the way
 
-<div align="center">
-  <h2>Working with</h2>
-  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,git,pycharm,vscode&theme=light" />
+  </a>
+</p>
 
 

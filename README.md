@@ -44,7 +44,7 @@ Sou formada em Jornalismo com MBA em Gestão Ágil e pós em UX Design. Atuei co
 | [**RPA_Medicamentos**](https://github.com/michellesanseverino/RPA_Medicamentos) | Sistema de automação para controle pessoal de medicamentos. Realiza scraping de preços em farmácias online, armazena informações em MongoDB e AWS S3, envia lembretes por e-mail e oferece um dashboard via Flask.  | Python, Pandas, Flask, MongoDB, AWS S3 |
 | [**automatizadorVendasEmails**](https://github.com/michellesanseverino/automatizadorVendasEmails) | Código para automatização de envio de e-mails para vendedores, baseados em planilha de vendas. | Python, Pandas, smtplib |
 
-Veja todos os projetos na aba [Repositórios](https://github.com/michellesanseverino?tab=repositories).
+Veja todos os projetos na aba [Repositórios](https://github.com/michellesanseverino?tab=repositories&q=&type=&language=python&sort=).
 
 ---
 
@@ -59,5 +59,5 @@ Veja todos os projetos na aba [Repositórios](https://github.com/michellesanseve
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/michellesanseverino)](https://linkedin.com/in/michellesanseverino)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/michelle-sanseverino)](https://linkedin.com/in/michelle-sanseverino)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mello.de.michelle@gmail.com)](mailto:mello.de.michelle@gmail.com)

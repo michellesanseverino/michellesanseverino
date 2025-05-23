@@ -61,7 +61,3 @@ Veja todos os projetos na aba [Repositórios](https://github.com/michellesanseve
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/michellesanseverino)](https://linkedin.com/in/michellesanseverino)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mello.de.michelle@gmail.com)](mailto:mello.de.michelle@gmail.com)
-
----
-
-> _"Automatizar é libertar tempo para o que realmente importa."_ 🚀

@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Michelle
 
-🎯 RPA Developer passionate about automating processes with Python.
+I am a junior Python developer applying knowledge obtained during my studies to personal projects. Currently, I am specializing in data analysis and RPA development.
 
 ## 🛠️ Tools I use:
 - Python

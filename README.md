@@ -24,4 +24,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/michellesanseverino">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michellesanseverino&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/michellesanseverino">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellesanseverino&hide_progress=true&langs_count=8&card_width=320" />
+</a>
+</p>

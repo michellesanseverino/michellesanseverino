@@ -10,7 +10,7 @@
 
 ## ✨ About me
 
-I hold a degree in Journalism, an MBA in Agile Management, and a postgraduate degree in UX Design. I worked as a **technical writer in tech** for over 3 years and now I’m fully dedicated to building Python-based solutions for automation and data analysis.
+I hold a degree in Journalism, an MBA in Agile Management, and a postgraduate degree in UX Design. I worked as a **technical writer in tech** for over 4 years and now I’m fully dedicated to building Python-based solutions for automation and data analysis.
 
 💡 My key strengths:
 

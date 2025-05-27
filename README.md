@@ -1,27 +1,27 @@
 # 👩‍💻 Michelle Sanseverino
 
-**Desenvolvedora Python | Automação de Processos (RPA) | Dados**
+**Python Developer | Process Automation (RPA) | Data**
 
-🔍 Focada 100% em projetos com **Python**, **automação de tarefas (RPA)** e **dados**.  
-🧠 Combino minha bagagem em comunicação técnica com o poder da automação inteligente.  
-🌎 Blumenau, SC & Remoto | 📬 Aberta a vagas como **Dev Python / RPA / Dados Júnior**
-
----
-
-## ✨ Sobre mim
-
-Sou formada em Jornalismo com MBA em Gestão Ágil e pós em UX Design. Atuei como **redatora técnica em tech** por mais de 3 anos e hoje me dedico exclusivamente a criar soluções em Python para automações e análise de dados.
-
-💡 Meus diferenciais:
-
-- Pensamento analítico com foco em eficiência
-- Projetos próprios com dados reais e automações úteis
-- Clareza na documentação e foco em entrega com qualidade
-- Curadoria de código limpo, reutilizável e fácil de manter
+🔍 100% focused on projects with **Python**, **task automation (RPA)**, and **data**.  
+🧠 I combine my background in technical communication with the power of smart automation.  
+🌎 Blumenau, SC & Remote | 📬 Open to opportunities as a **Junior Python / RPA / Data Developer**
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## ✨ About me
+
+I hold a degree in Journalism, an MBA in Agile Management, and a postgraduate degree in UX Design. I worked as a **technical writer in tech** for over 3 years and now I’m fully dedicated to building Python-based solutions for automation and data analysis.
+
+💡 My key strengths:
+
+- Analytical thinking with a focus on efficiency  
+- Personal projects using real data and useful automations  
+- Clear documentation and commitment to high-quality delivery  
+- Clean, reusable, and maintainable code curation
+
+---
+
+## 🧰 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -36,28 +36,28 @@ Sou formada em Jornalismo com MBA em Gestão Ágil e pós em UX Design. Atuei co
 
 ---
 
-## 🧩 Projetos em destaque
+## 🧩 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [**F1-Insights-Automator**](https://github.com/michellesanseverino/F1-Insights-Automator) | Dashboard automatizado da Fórmula 1 com dados da temporada, envio diário por e-mail e integração com MongoDB + AWS. | Python, Flask, MongoDB, AWS S3, Ergast API |
-| [**RPA_Medicamentos**](https://github.com/michellesanseverino/RPA_Medicamentos) | Sistema de automação para controle pessoal de medicamentos. Realiza scraping de preços em farmácias online, armazena informações em MongoDB e AWS S3, envia lembretes por e-mail e oferece um dashboard via Flask.  | Python, Pandas, Flask, MongoDB, AWS S3 |
-| [**automatizadorVendasEmails**](https://github.com/michellesanseverino/automatizadorVendasEmails) | Código para automatização de envio de e-mails para vendedores, baseados em planilha de vendas. | Python, Pandas, smtplib |
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [**F1-Insights-Automator**](https://github.com/michellesanseverino/F1-Insights-Automator) | Automated Formula 1 dashboard with season data, daily email updates, and MongoDB + AWS integration. | Python, Flask, MongoDB, AWS S3, Ergast API |
+| [**RPA_Medicamentos**](https://github.com/michellesanseverino/RPA_Medicamentos) | Personal medication tracking automation system. Scrapes prices from online pharmacies, stores data in MongoDB and AWS S3, sends email reminders, and provides a Flask dashboard. | Python, Pandas, Flask, MongoDB, AWS S3 |
+| [**automatizadorVendasEmails**](https://github.com/michellesanseverino/automatizadorVendasEmails) | Script to automate sales-based email sending to salespeople using a spreadsheet. | Python, Pandas, smtplib |
 
-Veja todos os projetos na aba [Repositórios](https://github.com/michellesanseverino?tab=repositories&q=&type=&language=python&sort=).
-
----
-
-## 🚀 Agora estudando
-
-- Automatização de processos complexos com Python + RPA
-- Dashboards web com Flask + MongoDB
-- Integrações com APIs REST e bases de dados
-- Testes automatizados em Python
+See all projects on the [Repositories](https://github.com/michellesanseverino?tab=repositories&q=&type=&language=python&sort=) tab.
 
 ---
 
-## 📫 Vamos nos conectar?
+## 🚀 Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/michelle-sanseverino)](https://linkedin.com/in/michelle-sanseverino)
+- Complex process automation with Python + RPA  
+- Web dashboards using Flask + MongoDB  
+- REST API and database integrations  
+- Automated testing in Python
+
+---
+
+## 📫 Let’s connect?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/michelle-sanseverino)](https://linkedin.com/in/michelle-sanseverino)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mello.de.michelle@gmail.com)](mailto:mello.de.michelle@gmail.com)

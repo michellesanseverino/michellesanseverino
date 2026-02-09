@@ -1,10 +1,10 @@
 # 👩‍💻 Michelle Sanseverino
 
-**Python Developer | Process Automation (RPA) | Data**
+**Junior Python Developer | Technical Writer | Data Analyst**
 
-🔍 100% focused on projects with **Python**, **task automation (RPA)**, and **data**.  
+🔍 100% focused on projects with **Python** and **data anlysis**.  
 🧠 I combine my background in technical communication with the power of smart automation.  
-🌎 Blumenau, SC & Remote | 📬 Open to opportunities as a **Junior Python / RPA / Data Developer**
+🌎 Blumenau, SC & Remote | 📬 Open to opportunities as a **Junior Python Developer / Technical Writer / Data Analyst**
 
 ---
 
@@ -36,23 +36,11 @@ I hold a degree in Journalism, an MBA in Agile Management, and a postgraduate de
 
 ---
 
-## 🧩 Featured Projects
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [**F1-Insights-Automator**](https://github.com/michellesanseverino/F1-Insights-Automator) | Automated Formula 1 dashboard with season data, daily email updates, and MongoDB + AWS integration. | Python, Flask, MongoDB, AWS S3, Ergast API |
-| [**RPA_Medicamentos**](https://github.com/michellesanseverino/RPA_Medicamentos) | Personal medication tracking automation system. Scrapes prices from online pharmacies, stores data in MongoDB and AWS S3, sends email reminders, and provides a Flask dashboard. | Python, Pandas, Flask, MongoDB, AWS S3 |
-| [**automatizadorVendasEmails**](https://github.com/michellesanseverino/automatizadorVendasEmails) | Script to automate sales-based email sending to salespeople using a spreadsheet. | Python, Pandas, smtplib |
-
-See all projects on the [Repositories](https://github.com/michellesanseverino?tab=repositories&q=&type=&language=python&sort=) tab.
-
----
-
 ## 🚀 Currently Learning
 
-- Complex process automation with Python + RPA  
-- Web dashboards using Flask + MongoDB  
-- REST API and database integrations  
+- Complex Python systems
+- Databases and Cloud
+- Data analysis
 - Automated testing in Python
 
 ---

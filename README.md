@@ -1,10 +1,10 @@
 # 👩‍💻 Michelle Sanseverino
 
-**Junior Python Developer | Technical Writer | Data Analyst**
+**Junior Python and Java Developer | Technical Writer | Data Analyst**
 
-🔍 100% focused on projects with **Python** and **data anlysis**.  
+🔍 100% focused on projects with **Python**, **Java** and **data anlysis**.  
 🧠 I combine my background in technical communication with the power of smart automation.  
-🌎 Blumenau, SC & Remote | 📬 Open to opportunities as a **Junior Python Developer / Technical Writer / Data Analyst**
+🌎 Blumenau, SC & Remote | 📬 Open to opportunities as a **Junior Python and Java Developer / Technical Writer / Data Analyst**
 
 ---
 

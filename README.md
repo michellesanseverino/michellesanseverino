@@ -50,8 +50,6 @@ I hold a degree in **Journalism**, an **MBA in Agile Management**, and a postgra
 
 | Project | Description | Stack |
 |---|---|---|
-| [🏎️ F1-Insights-Automator](https://github.com/michellesanseverino/F1-Insights-Automator) | RPA system that automates F1 data collection, dashboards, alerts and performance reports | Python · MongoDB · AWS S3 |
-| [💊 RPA_Medicamentos](https://github.com/michellesanseverino/RPA_Medicamentos) | Automation for personal medication control — scrapes prices, stores in MongoDB and sends reminders | Python · MongoDB · AWS S3 |
 | [📧 automatizadorVendasEmails](https://github.com/michellesanseverino/automatizadorVendasEmails) | Automates sending sales emails to vendors based on a spreadsheet | Python · OpenPyXL |
 | [📚 library_practice](https://github.com/michellesanseverino/library_practice) | Object-oriented Library System in Java with search, filters, customer management and loan history | Java · OOP |
 

@@ -45,6 +45,7 @@ I hold a degree in **Journalism**, an **MBA in Agile Management**, and a postgra
 |---|---|---|
 | [📧 automatizadorVendasEmails](https://github.com/michellesanseverino/automatizadorVendasEmails) | Automates reporting and sales email distribution using spreadsheet data processing | Python · OpenPyXL |
 | [📝 Todo List CLI & Suite](https://github.com/michellesanseverino/Todo_List) | Modular Python CLI application built with automated unit testing (Pytest) and clean architecture | Python · Pytest · CLI |
+| [🏥 Family Caregiver & Health Management System](https://github.com/michellesanseverino/family_caregiver) | An accessible, voice-enabled healthcare management platform designed to assist elderly family members with visual and motor impairments—such as post-stroke recovery—and simplify daily routines for primary caregivers. | Python · FastAPI · Pydantic · SQLite ·gTTS · OpenCV · PyTesseract · Streamlit |
 
 ---
 
